@@ -20,4 +20,13 @@ npm start
 ## API Documentation
 https://documenter.getpostman.com/view/23713535/2sB3BBqrsU
 
+API Section-
+1) user
+2) Post
+3) Admin
+
+## Flow
+User Register--> Admin verify--> After that user can login
+(Only verify user can Login and Access the features)
+
 
